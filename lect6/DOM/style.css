@@ -1,0 +1,15 @@
+h1{
+    color: aqua;
+    text-shadow: 3px;
+}
+p{
+    font-size: 32px;
+    background-color: yellow;
+}
+body{
+    background-color: pink;
+}
+button{
+    background-color: blue;
+    color: black;
+}
